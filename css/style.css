@@ -511,11 +511,11 @@ footer {
 
 .info-item {
   display: block;
+  width: 100%;
 }
 
 .social-list {
   display: flex;
-  justify-content: center;
 }
 
 .social-item {
@@ -533,10 +533,6 @@ footer {
 }
 .project-foto:hover .projects-text {
   transform: translateY(0);
-}
-
-.info-item {
-  margin-right: 70px;
 }
 
 .clients-link {
